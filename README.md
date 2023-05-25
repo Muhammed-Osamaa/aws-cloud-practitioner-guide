@@ -4,5 +4,5 @@ I'd be happy to provide you with a guide to help you prepare for the AWS Certifi
               <li> Finish one section with Stephane.</li>
               <li>Review this section in my PDF and focus on the bolded keywords, as they are key to the exam.</li>
               <li>Solve the quizzes for this section with Stephane on Udemy.</li>
-              <li>After completing all sections, reviewing my entire PDF, and solving the quizzes in Stephane's Udemy course, you can try using ExamTopics. Here is the link: [here](https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner/).</li>
+              <li>After completing all sections, reviewing my entire PDF, and solving the quizzes in Stephane's Udemy course, you can try using ExamTopics. Here is the link: [here] (https://www.examtopics.com/exams/amazon/aws-certified-cloud-practitioner) .</li>
 </ul>
